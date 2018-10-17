@@ -1,4 +1,4 @@
-# R-in-Finance
+# R-in-Finance by Yidi Wang
 R in Finance with statistical tools
 
 Learn with Tutor Yarmish in NYU via the book R in Action
